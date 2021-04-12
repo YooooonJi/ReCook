@@ -184,8 +184,9 @@
 > 각 페이지 별 소개
 
 - ##### Survey
+- 
+![취향조사](https://user-images.githubusercontent.com/49190094/114408285-393bc800-9be4-11eb-8ad7-7b94bb11289a.gif)
 
-  ![취향조사](/uploads/600193d116666ca0fa3dc337a445d341/취향조사.gif)
 - ##### Main
 
   ![메인화면](/uploads/70803c76aac1daa139723fa0ca8dd08f/메인화면.gif)
@@ -200,26 +201,24 @@
 
 - ##### Review
 
-  ![리뷰_모아보기](/uploads/123659d2da8190885fd68416ed0f0051/리뷰_모아보기.gif)
-
+![리뷰모아보기](https://user-images.githubusercontent.com/49190094/114409971-f0850e80-9be5-11eb-8ae9-b540b73c0e75.gif)
   
 
 - ##### MyPage(My Review & Like)
 
-  ![리뷰_찜](/uploads/1bc248758e825f52e09be527d7284b0d/리뷰_찜.gif)
+  ![리뷰찜](https://user-images.githubusercontent.com/49190094/114409943-ebc05a80-9be5-11eb-8d68-7c67d5989419.gif)
 
   
 
 - ##### Cook Video
 
-  ![유튜브](/uploads/e0e5aa2d4841acd54d59da1a8c96aa01/유튜브.gif)
+ ![유튜브](https://user-images.githubusercontent.com/49190094/114409761-c2073380-9be5-11eb-8e3b-5b89a7c63b54.gif)
 
 ### Recipe Source 📕
 
 #### 사용된 데이터 소스는 상업적 목적이 아닌 교육적 목적으로만 사용되었음을 알려드립니다.
 
 - [해먹남녀](https://haemukja.com/)
-
 
 
 
