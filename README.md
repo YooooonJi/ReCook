@@ -189,13 +189,13 @@
 
 - ##### Main
 
-  ![메인화면](/uploads/70803c76aac1daa139723fa0ca8dd08f/메인화면.gif)
+![메인](https://user-images.githubusercontent.com/49190094/114415988-2a0c4880-9beb-11eb-8877-6eeaf4a308f2.gif)
 
-  
 
 - ##### Recipe Detail
 
-  ![레시피_상세](/uploads/b975ec8ad5da02ede9100bbf5674bf37/레시피_상세.gif)
+
+![레시피상세](https://user-images.githubusercontent.com/49190094/114416002-2e386600-9beb-11eb-9bb0-514c7ad5a0d5.gif)
 
   
 
