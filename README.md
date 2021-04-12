@@ -135,14 +135,13 @@
 - Backend : Spring Boot, Django, MariaDB
 - Frontend : Vue.js
 
-![image](/uploads/5b788ee36c740c2adbdcbcc78fa569a7/image.png)
+![기술스택](https://user-images.githubusercontent.com/49190094/114417012-32b14e80-9bec-11eb-9798-f49d78d9ef22.png)
 
 
 
 ### Database Modeling :link:
 
-![image](/uploads/f3b7b3bc1348160f884823b1186bd184/image.png)
-
+![erd](https://user-images.githubusercontent.com/49190094/114417031-36dd6c00-9bec-11eb-8afa-9c911dd9b05e.png)
 
 
 <br>
